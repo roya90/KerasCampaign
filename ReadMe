@@ -1,1 +1,40 @@
+# Keras Campaign
+
+Welcome to the **Keras Campaign** repository! This project was created as part of a comprehensive course designed to introduce the foundational concepts of deep learning using Keras. The course covers a variety of topics, including Computer Vision (CV), Convolutional Neural Networks (CNNs), Natural Language Processing (NLP), Recurrent Neural Networks (RNNs), and Time Series Analysis.
+
+## Table of Contents
+
+- Introduction
+- Computer Vision 
+- Natural Language Processing
+- Time Series Analysis
+
+## About the Course
+
+The **Keras Campaign** course introduces the key components and applications of deep learning with a strong focus on Keras, an easy-to-use and powerful deep learning library. The material is structured to help students understand the basics and dive into practical implementations of various neural network architectures and techniques.
+The notebooks are designed to run seamlessly on **Google Colab**, a free cloud-based platform with pre-installed support for Keras and TensorFlow, enabling learners to get started quickly without needing local installations.
+
+## Topics Covered
+
+1. **Introduction to Keras**
+   - Overview of Keras API
+   - Building simple neural networks
+   - Training, evaluation, and inference
+
+2. **Convolutional Neural Networks (CNNs)**
+   - Image classification
+   - Feature extraction with convolutional layers
+   - Max-pooling and data augmentation
+
+3. **Natural Language Processing (NLP)**
+   - Text preprocessing with Keras
+   - Word embeddings and tokenization
+   
+
+4. **Time Series Analysis**
+   - RNNs and LSTMs for time series
+   - Forecasting future data points
+   - Evaluating model performance
+
+
 
